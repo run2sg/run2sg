@@ -1,1 +1,1 @@
-# 详见 ![wiki](https://github.com/run2sg/run2sg/wiki)
+# 详见 [wiki](https://github.com/run2sg/run2sg/wiki)
