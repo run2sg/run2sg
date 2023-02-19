@@ -2,7 +2,19 @@
 description: 👋 Welcome to run2sg!
 ---
 
-# 润到新加坡
+# 🏃 润到新加坡
+
+{% content-ref url="ju-zhu.md" %}
+[ju-zhu.md](ju-zhu.md)
+{% endcontent-ref %}
+
+{% content-ref url="dian-hua-wang.md" %}
+[dian-hua-wang.md](dian-hua-wang.md)
+{% endcontent-ref %}
+
+{% content-ref url="yin-hang.md" %}
+[yin-hang.md](yin-hang.md)
+{% endcontent-ref %}
 
 我是 22 年 7 月搬到新加坡🇸🇬的，因为有很多好奇和担心，在来之前就非常想多了解一下新加坡的方方面面，可惜当时搜到的信息都比较零散。在搜集信息的时候，就想着把自己了解到的分享出来，结果就一直鸽…责任全在 steam🤣
 
