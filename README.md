@@ -12,7 +12,7 @@ description: 👋 Welcome to run2sg!
 
 <figure><img src=".gitbook/assets/Untitled.png" alt=""><figcaption></figcaption></figure>
 
-23 年了，给自己立个 🚩，完善一下这个分享。本来想在 [GitHub](https://github.com/wujun234) 写的，受到 Kelvin 大佬的 [run2.sg](http://run2.sg/) 启发，~~转到编辑方便的 notion。~~本页面纯 0 元购，用的 notion 和 cloudflare 的免费套餐，~~在~~ [~~fruitionsite~~](https://fruitionsite.com/) ~~的指导下配置了域名转发~~，域名也是花的之前免费薅的腾讯云代金券😋&#x20;
+23 年了，给自己立个 🚩，完善一下这个分享。本来想在 [GitHub](https://github.com/wujun234) 写的，受到 Kelvin 大佬的 [run2.sg](http://run2.sg/) 启发，~~转到编辑方便的 notion。~~本页面纯 0 元购，用的 ~~notion~~ 和 cloudflare 的免费套餐，~~在~~ [~~fruitionsite~~](https://fruitionsite.com/) ~~的指导下配置了域名转发~~，域名也是花的之前免费薅的腾讯云代金券😋&#x20;
 
 update：结果配置的notion域名转发worker被谷歌判断欺诈网站，又转来现在的自带自定义域名的 gitbook。
 
