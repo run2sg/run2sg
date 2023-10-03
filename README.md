@@ -8,7 +8,7 @@ description: 👋 Welcome to run2sg!
 [settle-down.md](settle-down.md)
 {% endcontent-ref %}
 
-我是[吴俊](https://wujun.me/), 22 年 7 月搬到新加坡🇸🇬的，因为有很多好奇和担心，在来之前就非常想多了解一下新加坡的方方面面，可惜当时搜到的信息都比较零散。在搜集信息的时候，就想着把自己了解到的分享出来，结果就一直鸽…责任全在 steam🤣
+我是 22 年 7 月搬到新加坡🇸🇬的，因为有很多好奇和担心，在来之前就非常想多了解一下新加坡的方方面面，可惜当时搜到的信息都比较零散。在搜集信息的时候，就想着把自己了解到的分享出来，结果就一直鸽…责任全在 steam🤣
 
 <figure><img src=".gitbook/assets/Untitled.png" alt=""><figcaption></figcaption></figure>
 
