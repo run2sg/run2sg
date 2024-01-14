@@ -1,4 +1,4 @@
-# 🏫 小孩上学
+# 小孩上学
 
 [飘过新加坡的日子 - 小学转校那些事（primary school transfer）](https://www.kuact.com/post/2022-12-30---%E9%A3%98%E8%BF%87%E6%96%B0%E5%8A%A0%E5%9D%A1%E7%9A%84%E6%97%A5%E5%AD%90---%E5%B0%8F%E5%AD%A6%E8%BD%AC%E6%A0%A1%E9%82%A3%E4%BA%9B%E4%BA%8Bprimary-school-transfer/)
 

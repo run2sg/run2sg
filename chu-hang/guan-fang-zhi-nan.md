@@ -1,4 +1,4 @@
-# 📗 官方指南
+# 官方指南
 
 公交、单车、的士、开车（英文）: [https://www.lta.gov.sg/content/ltagov/en/getting\_around.html#active\_mobility](https://www.lta.gov.sg/content/ltagov/en/getting\_around.html#active\_mobility)
 
