@@ -17,6 +17,7 @@
 * [券商](jin-rong/quan-shang.md)
 * [信用卡](jin-rong/xin-yong-ka.md)
 * [保险](jin-rong/bao-xian.md)
+* [基金](jin-rong/ji-jin.md)
 
 ## 🚂 出行
 
