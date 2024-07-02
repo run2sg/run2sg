@@ -1,7 +1,7 @@
 # Table of contents
 
 * [🏃 润到新加坡](README.md)
-* [✈ Settle Down](settle-down.md)
+* [✈️ Settle Down](settle-down.md)
 * [🆔 身份](shen-fen.md)
 * [🤖 工作](gong-zuo.md)
 

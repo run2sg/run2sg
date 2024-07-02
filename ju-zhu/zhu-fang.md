@@ -32,6 +32,8 @@
 
 [飘过新加坡的日子 - HDB BTO SBF 买房](https://www.kuact.com/post/2020-11-21---%E9%A3%98%E8%BF%87%E6%96%B0%E5%8A%A0%E5%9D%A1%E7%9A%84%E6%97%A5%E5%AD%90---hdb-bto--sbf-%E4%B9%B0%E6%88%BF/)
 
+**租房卖房对比**：[https://docs.google.com/spreadsheets/d/1Dq-H7hm7o7TcRLuTgvdlcJFuqNEK2HouzP6tM2I\_vfg](https://docs.google.com/spreadsheets/d/1Dq-H7hm7o7TcRLuTgvdlcJFuqNEK2HouzP6tM2I\_vfg)
+
 ### 水电燃气
 
 合租可能是房东包水电，或者约定水电多少钱。但是整租时，一般就需要自己开通水电账户了。有中介的话，他会帮你开好，然后转到你名下。SPgroup 就可以注册，前提是需要先有手机号。
